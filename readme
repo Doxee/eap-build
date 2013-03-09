@@ -7,8 +7,9 @@ The result won't be a JBoss EAP 6 binary but something with a few differences.
 If you want to run the script :
 
   git clone git://github.com/hasalex/eap-build.git
+  checkout 6.1
   cd eap-build
   ./build.sh
 
-The script has been tested under Ubuntu 12.04. It downloads the source code of JBoss EAP 6.0.1 .
+The script has been tested under Ubuntu 12.10. It downloads the source code of JBoss EAP 6.1.0.Alpha1 .
 
