@@ -11,3 +11,4 @@ deploy:
   file: dist/jboss-eap-6.4.zip
   on:
     repo: visik7/eap-build
+    tags: true
